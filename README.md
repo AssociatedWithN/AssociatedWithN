@@ -1,16 +1,19 @@
-### Hi there 👋
+# AboutMe
 
-<!--
-**AssociatedWithN/AssociatedWithN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, my name is Dallas. I work with Python, JavaScript, C++, and sometimes LUA. 
 
-Here are some ideas to get you started:
+I am interested in reverse engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Tools
+
+- **IDE for C++:**
+  - [𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼](https://visualstudio.microsoft.com/)
+
+- **Code Editor for Python, JavaScript, and Lua:**
+  - [𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲](https://code.visualstudio.com/)
+
+# Contacts
+
+[𝗧𝘄𝗶𝘁𝘁𝗲𝗿/𝗫](https://twitter.com/AssociatedWithN/)
+
+[𝗥𝗶𝗴𝗵𝘁 𝗛𝗲𝗿𝗲](https://github.com/AssociatedWithN/)
