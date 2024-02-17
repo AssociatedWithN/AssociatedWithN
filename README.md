@@ -14,6 +14,6 @@ I am interested in reverse engineering.
 
 # Contacts
 
-[𝗧𝘄𝗶𝘁𝘁𝗲𝗿/𝗫](https://twitter.com/AssociatedWithN/)
+- [𝗧𝘄𝗶𝘁𝘁𝗲𝗿/𝗫](https://twitter.com/AssociatedWithN/)
 
-[𝗥𝗶𝗴𝗵𝘁 𝗛𝗲𝗿𝗲](https://github.com/AssociatedWithN/)
+- [𝗥𝗶𝗴𝗵𝘁 𝗛𝗲𝗿𝗲](https://github.com/AssociatedWithN/)
